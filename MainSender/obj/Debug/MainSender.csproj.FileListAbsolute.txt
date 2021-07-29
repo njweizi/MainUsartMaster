@@ -1,0 +1,135 @@
+D:\code\CSharpCode\串口通讯应用\串口发送数据\MainSender\MainSender\bin\Debug\MainSender.exe.config
+D:\code\CSharpCode\串口通讯应用\串口发送数据\MainSender\MainSender\bin\Debug\MainSender.exe
+D:\code\CSharpCode\串口通讯应用\串口发送数据\MainSender\MainSender\bin\Debug\MainSender.pdb
+D:\code\CSharpCode\串口通讯应用\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.csprojAssemblyReference.cache
+D:\code\CSharpCode\串口通讯应用\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.Properties.Resources.resources
+D:\code\CSharpCode\串口通讯应用\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.csproj.GenerateResource.cache
+D:\code\CSharpCode\串口通讯应用\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.exe
+D:\code\CSharpCode\串口通讯应用\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.pdb
+D:\code\CSharpCode\串口通讯应用\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.About.resources
+D:\code\CSharpCode\串口通讯应用\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.SerialDebug.resources
+D:\code\CSharpCode\串口通讯应用\串口发送数据\MainSender\MainSender\bin\Debug\MainSender.exe.manifest
+D:\code\CSharpCode\串口通讯应用\串口发送数据\MainSender\MainSender\bin\Debug\MainSender.application
+D:\code\CSharpCode\串口通讯应用\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.exe.manifest
+D:\code\CSharpCode\串口通讯应用\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.application
+D:\code\CSharpCode\串口通讯应用\Csharp_SerialPorts_Debug\串口发送数据\MainSender\MainSender\bin\Debug\MainSender.exe.config
+D:\code\CSharpCode\串口通讯应用\Csharp_SerialPorts_Debug\串口发送数据\MainSender\MainSender\bin\Debug\MainSender.exe.manifest
+D:\code\CSharpCode\串口通讯应用\Csharp_SerialPorts_Debug\串口发送数据\MainSender\MainSender\bin\Debug\MainSender.application
+D:\code\CSharpCode\串口通讯应用\Csharp_SerialPorts_Debug\串口发送数据\MainSender\MainSender\bin\Debug\MainSender.exe
+D:\code\CSharpCode\串口通讯应用\Csharp_SerialPorts_Debug\串口发送数据\MainSender\MainSender\bin\Debug\MainSender.pdb
+D:\code\CSharpCode\串口通讯应用\Csharp_SerialPorts_Debug\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.csprojAssemblyReference.cache
+D:\code\CSharpCode\串口通讯应用\Csharp_SerialPorts_Debug\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.About.resources
+D:\code\CSharpCode\串口通讯应用\Csharp_SerialPorts_Debug\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.SerialDebug.resources
+D:\code\CSharpCode\串口通讯应用\Csharp_SerialPorts_Debug\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.Properties.Resources.resources
+D:\code\CSharpCode\串口通讯应用\Csharp_SerialPorts_Debug\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.csproj.GenerateResource.cache
+D:\code\CSharpCode\串口通讯应用\Csharp_SerialPorts_Debug\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.exe.manifest
+D:\code\CSharpCode\串口通讯应用\Csharp_SerialPorts_Debug\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.application
+D:\code\CSharpCode\串口通讯应用\Csharp_SerialPorts_Debug\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.exe
+D:\code\CSharpCode\串口通讯应用\Csharp_SerialPorts_Debug\串口发送数据\MainSender\MainSender\obj\Debug\MainSender.pdb
+E:\99 JiHong\其它\MainSender\MainSender\obj\Debug\MainSender.About.resources
+E:\99 JiHong\其它\MainSender\MainSender\obj\Debug\MainSender.SerialDebug.resources
+E:\99 JiHong\其它\MainSender\MainSender\obj\Debug\MainSender.Properties.Resources.resources
+E:\99 JiHong\其它\MainSender\MainSender\obj\Debug\MainSender.csproj.GenerateResource.cache
+E:\99 JiHong\其它\MainSender\MainSender\obj\Debug\MainSender.csproj.CoreCompileInputs.cache
+E:\99 JiHong\其它\MainSender\MainSender\obj\Debug\MainSender.exe
+E:\99 JiHong\其它\MainSender\MainSender\obj\Debug\MainSender.pdb
+E:\99 JiHong\其它\MainSender\MainSender\bin\Debug\MainSender.exe.config
+E:\99 JiHong\其它\MainSender\MainSender\bin\Debug\MainSender.exe.manifest
+E:\99 JiHong\其它\MainSender\MainSender\bin\Debug\MainSender.application
+E:\99 JiHong\其它\MainSender\MainSender\bin\Debug\MainSender.exe
+E:\99 JiHong\其它\MainSender\MainSender\bin\Debug\MainSender.pdb
+E:\99 JiHong\其它\MainSender\MainSender\obj\Debug\MainSender.exe.manifest
+E:\99 JiHong\其它\MainSender\MainSender\obj\Debug\MainSender.application
+E:\99 JiHong\其它\MainSender\MainSender\obj\Debug\MainSender.ToolMeu.resources
+E:\99 JiHong\其它\MainSender\MainSender\obj\Debug\MainSender.csproj.AssemblyReference.cache
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\obj\Debug\MainSender.csproj.AssemblyReference.cache
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\obj\Debug\MainSender.About.resources
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\obj\Debug\MainSender.ToolMeu.resources
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\obj\Debug\MainSender.SerialDebug.resources
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\obj\Debug\MainSender.Properties.Resources.resources
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\obj\Debug\MainSender.csproj.GenerateResource.cache
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\obj\Debug\MainSender.csproj.CoreCompileInputs.cache
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\obj\Debug\MainSender.exe
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\obj\Debug\MainSender.pdb
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\bin\Debug\MainSender.exe.config
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\bin\Debug\MainSender.exe.manifest
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\bin\Debug\MainSender.application
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\bin\Debug\MainSender.exe
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\bin\Debug\MainSender.pdb
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\obj\Debug\MainSender.exe.manifest
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainSender\MainSender\obj\Debug\MainSender.application
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\bin\Debug\MainSender.exe.config
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\bin\Debug\MainSender.exe.manifest
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\bin\Debug\MainSender.application
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\bin\Debug\MainSender.exe
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\bin\Debug\MainSender.pdb
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\obj\Debug\MainSender.ToolMeu.resources
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\obj\Debug\MainSender.SerialDebug.resources
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\obj\Debug\MainSender.Properties.Resources.resources
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\obj\Debug\MainSender.csproj.GenerateResource.cache
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\obj\Debug\MainSender.csproj.CoreCompileInputs.cache
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\obj\Debug\MainSender.exe.manifest
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\obj\Debug\MainSender.application
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\obj\Debug\MainSender.exe
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\obj\Debug\MainSender.pdb
+C:\Users\aLIEz\Desktop\MainSender0716-2\MainUsart\MainSender\obj\Debug\MainSender.csproj.AssemblyReference.cache
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\bin\Debug\MainSender.exe.config
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\bin\Debug\MainSender.exe.manifest
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\bin\Debug\MainSender.application
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\bin\Debug\MainSender.exe
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\bin\Debug\MainSender.pdb
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\obj\Debug\MainSender.ToolMeu.resources
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\obj\Debug\MainSender.SerialDebug.resources
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\obj\Debug\MainSender.Properties.Resources.resources
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\obj\Debug\MainSender.csproj.GenerateResource.cache
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\obj\Debug\MainSender.csproj.CoreCompileInputs.cache
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\obj\Debug\MainSender.exe.manifest
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\obj\Debug\MainSender.application
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\obj\Debug\MainSender.exe
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\obj\Debug\MainSender.pdb
+E:\99 JiHong\其它\MainUsart-0718\MainUsart\MainSender\obj\Debug\MainSender.csproj.AssemblyReference.cache
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\bin\Debug\MainSender.exe.config
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\bin\Debug\MainSender.exe.manifest
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\bin\Debug\MainSender.application
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\bin\Debug\MainSender.exe
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\bin\Debug\MainSender.pdb
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\obj\Debug\MainSender.csproj.AssemblyReference.cache
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\obj\Debug\MainSender.ToolMeu.resources
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\obj\Debug\MainSender.SerialDebug.resources
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\obj\Debug\MainSender.Properties.Resources.resources
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\obj\Debug\MainSender.csproj.GenerateResource.cache
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\obj\Debug\MainSender.csproj.CoreCompileInputs.cache
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\obj\Debug\MainSender.exe.manifest
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\obj\Debug\MainSender.application
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\obj\Debug\MainSender.exe
+C:\Users\aLIEz\Desktop\MainSender\MainUsart-0719\MainUsart-0719\MainUsart\MainSender\obj\Debug\MainSender.pdb
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\bin\Debug\MainSender.exe.config
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\bin\Debug\MainSender.exe.manifest
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\bin\Debug\MainSender.application
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\bin\Debug\MainSender.exe
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\bin\Debug\MainSender.pdb
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\obj\Debug\MainSender.ToolMeu.resources
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\obj\Debug\MainSender.SerialDebug.resources
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\obj\Debug\MainSender.Properties.Resources.resources
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\obj\Debug\MainSender.csproj.GenerateResource.cache
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\obj\Debug\MainSender.csproj.CoreCompileInputs.cache
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\obj\Debug\MainSender.exe.manifest
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\obj\Debug\MainSender.application
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\obj\Debug\MainSender.exe
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\obj\Debug\MainSender.pdb
+E:\99 JiHong\其它\MainUsart-0720\MainUsart\MainSender\obj\Debug\MainSender.csproj.AssemblyReference.cache
+D:\MainUsart_0723\MainUsart\MainSender\bin\Debug\MainSender.exe.config
+D:\MainUsart_0723\MainUsart\MainSender\bin\Debug\MainSender.exe.manifest
+D:\MainUsart_0723\MainUsart\MainSender\bin\Debug\MainSender.application
+D:\MainUsart_0723\MainUsart\MainSender\bin\Debug\MainSender.exe
+D:\MainUsart_0723\MainUsart\MainSender\bin\Debug\MainSender.pdb
+D:\MainUsart_0723\MainUsart\MainSender\obj\Debug\MainSender.csproj.AssemblyReference.cache
+D:\MainUsart_0723\MainUsart\MainSender\obj\Debug\MainSender.ToolMeu.resources
+D:\MainUsart_0723\MainUsart\MainSender\obj\Debug\MainSender.SerialDebug.resources
+D:\MainUsart_0723\MainUsart\MainSender\obj\Debug\MainSender.Properties.Resources.resources
+D:\MainUsart_0723\MainUsart\MainSender\obj\Debug\MainSender.csproj.GenerateResource.cache
+D:\MainUsart_0723\MainUsart\MainSender\obj\Debug\MainSender.csproj.CoreCompileInputs.cache
+D:\MainUsart_0723\MainUsart\MainSender\obj\Debug\MainSender.exe.manifest
+D:\MainUsart_0723\MainUsart\MainSender\obj\Debug\MainSender.application
+D:\MainUsart_0723\MainUsart\MainSender\obj\Debug\MainSender.exe
+D:\MainUsart_0723\MainUsart\MainSender\obj\Debug\MainSender.pdb
